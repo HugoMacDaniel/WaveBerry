@@ -24,4 +24,4 @@ Really clean animations button and background
 the code its not the best and maybe for devs its sh*t, but its work!
 
 # Copyright?
-No Its Free To Use!
+No.
