@@ -1,4 +1,5 @@
 # WaveBerry
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=SweppyDev)
 Minecraft Client, Made By SweppyDev. (credits to the originals owners of the file used!)
 
 # Main Menu (Custom Class)
